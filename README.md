@@ -1,4 +1,4 @@
-# insta_id_generator
+# Nick_Naming_App
 
 A new Flutter project.
 
